@@ -2,14 +2,15 @@
     "name": "Quotes are us",
     "short_name": "Quotes",
     "lang": "en-US",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white",
     "icons": [
         {
-          "src": "img/quote.svg",
-          "sizes": "72x72 96x96 128x128 256x256"
+            "src": "img/quote.png",
+            "sizes": "144x144",
+            "type": "image/png"
         }
-      ]
-  }
+    ]
+}
